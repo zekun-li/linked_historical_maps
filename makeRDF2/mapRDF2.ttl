@@ -1,0 +1,3201 @@
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix geoname: <http://linkedgeodata.org/ontology/> .
+@prefix my_ns: <gs:kg:> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<gs:kg:mapName:USGS-15-CA-brawley-e1957-s1957-p1961.jpg> geoname:nearby "{'lat': 32.875, 'long': -115.625}" ;
+    geo:sfOverlaps my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id0,
+        my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id1,
+        my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id10,
+        my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id11,
+        my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id12,
+        my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id13,
+        my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id14,
+        my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id15,
+        my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id2,
+        my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id3,
+        my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id4,
+        my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id5,
+        my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id6,
+        my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id7,
+        my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id8,
+        my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id9 ;
+    rdfs:type schema:Map .
+
+<gs:kg:mapName:USGS-15-CA-capesanmartin-e1921-s1917.jpg> geoname:nearby "{'lat': 35.875, 'long': -121.375}" ;
+    geo:sfOverlaps my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id0,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id1,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id10,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id11,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id12,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id13,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id14,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id15,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id16,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id17,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id18,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id19,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id2,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id20,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id21,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id3,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id4,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id5,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id6,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id7,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id8,
+        my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id9 ;
+    rdfs:type schema:Map .
+
+<gs:kg:mapName:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg> geoname:nearby "{'lat': 37.375, 'long': -122.125}" ;
+    geo:sfOverlaps my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id0,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id1,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id10,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id11,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id12,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id13,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id14,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id15,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id16,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id17,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id18,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id19,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id2,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id20,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id21,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id22,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id23,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id24,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id25,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id26,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id3,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id4,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id5,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id6,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id7,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id8,
+        my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id9 ;
+    rdfs:type schema:Map .
+
+<gs:kg:mapName:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg> geoname:nearby "{'lat': 37.875, 'long': -122.375}" ;
+    geo:sfOverlaps my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id0,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id1,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id10,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id11,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id12,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id13,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id14,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id15,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id16,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id17,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id18,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id19,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id2,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id20,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id21,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id22,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id23,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id24,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id25,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id26,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id27,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id28,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id29,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id3,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id30,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id31,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id32,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id33,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id34,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id4,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id5,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id6,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id7,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id8,
+        my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id9 ;
+    rdfs:type schema:Map .
+
+<gs:kg:mapName:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg> geoname:nearby "{'lat': 38.25, 'long': -119.75}" ;
+    geo:sfOverlaps my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id0,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id1,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id10,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id11,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id12,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id13,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id14,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id15,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id16,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id17,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id18,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id19,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id2,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id20,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id21,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id22,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id23,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id24,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id25,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id26,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id27,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id28,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id29,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id3,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id30,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id31,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id32,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id33,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id34,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id35,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id36,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id37,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id38,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id39,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id4,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id40,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id41,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id42,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id43,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id44,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id45,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id46,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id47,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id48,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id49,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id5,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id50,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id51,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id52,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id53,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id54,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id55,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id56,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id57,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id58,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id59,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id6,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id60,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id61,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id62,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id63,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id64,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id65,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id66,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id67,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id68,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id69,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id7,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id70,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id71,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id72,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id73,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id74,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id75,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id76,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id77,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id78,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id79,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id8,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id80,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id81,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id82,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id83,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id84,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id85,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id86,
+        my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id9 ;
+    rdfs:type schema:Map .
+
+<gs:kg:mapName:USGS-30-CA-holtville-e1907-s1905-rp1946.jpg> geoname:nearby "{'lat': 32.75, 'long': -115.25}" ;
+    geo:sfOverlaps my_ns:USGS-30-CA-holtville-e1907-s1905-rp1946.jpgfeature_id0,
+        my_ns:USGS-30-CA-holtville-e1907-s1905-rp1946.jpgfeature_id1,
+        my_ns:USGS-30-CA-holtville-e1907-s1905-rp1946.jpgfeature_id2,
+        my_ns:USGS-30-CA-holtville-e1907-s1905-rp1946.jpgfeature_id3,
+        my_ns:USGS-30-CA-holtville-e1907-s1905-rp1946.jpgfeature_id4,
+        my_ns:USGS-30-CA-holtville-e1907-s1905-rp1946.jpgfeature_id5,
+        my_ns:USGS-30-CA-holtville-e1907-s1905-rp1946.jpgfeature_id6,
+        my_ns:USGS-30-CA-holtville-e1907-s1905-rp1946.jpgfeature_id7 ;
+    rdfs:type schema:Map .
+
+<gs:kg:mapName:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg> geoname:nearby "{'lat': 33.542, 'long': -116.25}" ;
+    geo:sfOverlaps my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id0,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id1,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id10,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id11,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id12,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id13,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id14,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id15,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id16,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id17,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id18,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id19,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id2,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id20,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id3,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id4,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id5,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id6,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id7,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id8,
+        my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id9 ;
+    rdfs:type schema:Map .
+
+<gs:kg:mapName:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg> geoname:nearby "{'lat': 34.75, 'long': -120.25}" ;
+    geo:sfOverlaps my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id0,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id1,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id10,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id11,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id12,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id13,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id14,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id15,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id16,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id17,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id18,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id19,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id2,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id20,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id21,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id22,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id23,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id24,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id25,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id26,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id27,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id28,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id29,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id3,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id30,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id31,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id32,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id33,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id34,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id35,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id4,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id5,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id6,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id7,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id8,
+        my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id9 ;
+    rdfs:type schema:Map .
+
+<gs:kg:mapName:USGS-30-CA-sanpedro-e1943-rv1944.jpg> geoname:nearby "{'lat': 33.75, 'long': -118.25}" ;
+    geo:sfOverlaps my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id0,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id1,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id10,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id11,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id12,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id13,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id14,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id15,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id16,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id17,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id18,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id19,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id2,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id20,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id21,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id22,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id23,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id24,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id25,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id26,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id27,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id28,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id29,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id3,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id30,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id31,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id32,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id33,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id34,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id35,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id36,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id37,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id38,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id39,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id4,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id40,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id41,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id42,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id43,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id44,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id45,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id46,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id47,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id48,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id49,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id5,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id50,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id51,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id52,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id53,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id54,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id55,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id56,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id57,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id58,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id59,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id6,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id60,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id61,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id62,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id63,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id64,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id65,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id66,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id67,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id68,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id69,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id7,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id70,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id71,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id72,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id73,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id74,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id75,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id76,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id77,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id78,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id79,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id8,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id80,
+        my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id9 ;
+    rdfs:type schema:Map .
+
+<gs:kg:mapName:USGS-60-CA-alturas-e1892-rp1904.jpg> geoname:nearby "{'lat': 41.5, 'long': -120.5}" ;
+    geo:sfOverlaps my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id0,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id1,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id10,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id11,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id12,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id13,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id14,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id15,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id16,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id17,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id18,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id19,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id2,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id20,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id21,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id22,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id23,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id24,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id25,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id26,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id27,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id28,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id29,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id3,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id30,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id31,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id32,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id33,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id34,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id35,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id36,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id37,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id38,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id39,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id4,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id40,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id41,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id42,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id43,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id44,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id45,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id46,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id5,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id6,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id7,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id8,
+        my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id9 ;
+    rdfs:type schema:Map .
+
+<gs:kg:mapName:USGS-60-CA-amboy-e1942.jpg> geoname:nearby "{'lat': 34.5, 'long': -115.5}" ;
+    geo:sfOverlaps my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id0,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id1,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id10,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id11,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id12,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id13,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id14,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id15,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id16,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id17,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id18,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id2,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id3,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id4,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id5,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id6,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id7,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id8,
+        my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id9 ;
+    rdfs:type schema:Map .
+
+<gs:kg:mapName:USGS-60-CA-amboy-e1943-rv1943.jpg> geoname:nearby "{'lat': 34.5, 'long': -115.5}" ;
+    geo:sfOverlaps my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id0,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id1,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id10,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id11,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id12,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id13,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id14,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id15,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id16,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id17,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id18,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id2,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id3,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id4,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id5,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id6,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id7,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id8,
+        my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id9 ;
+    rdfs:type schema:Map .
+
+<gs:kg:mapName:USGS-60-CA-modoclavabed-e1886-s1884.jpg> geoname:nearby "{'lat': 41.5, 'long': -121.5}" ;
+    geo:sfOverlaps my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id0,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id1,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id10,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id11,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id12,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id13,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id14,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id15,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id16,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id17,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id18,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id19,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id2,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id3,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id4,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id5,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id6,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id7,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id8,
+        my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id9 ;
+    rdfs:type schema:Map .
+
+<gs:kg:mapName:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg> geoname:nearby "{'lat': 33.5, 'long': -115.5}" ;
+    geo:sfOverlaps my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id0,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id1,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id10,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id11,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id12,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id13,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id14,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id15,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id16,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id17,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id18,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id19,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id2,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id20,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id21,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id22,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id23,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id24,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id25,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id26,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id27,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id28,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id29,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id3,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id30,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id31,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id32,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id4,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id5,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id6,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id7,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id8,
+        my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id9 ;
+    rdfs:type schema:Map .
+
+my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id0 rdfs:label "El Centro" ;
+    geo:asWKT "USGS-15-CA-brawley-e1957-s1957-p1961.jpg: addLater0" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150965029>,
+        <http://www.wikidata.org/entity/Q495369>,
+        <https://www.openstreetmap.org/relation/112201> .
+
+my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id1 rdfs:label "Edgar" ;
+    geo:asWKT "USGS-15-CA-brawley-e1957-s1957-p1961.jpg: addLater1" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150932759>,
+        <https://www.openstreetmap.org/node/150932759> .
+
+my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id10 rdfs:label "Main Street" ;
+    geo:asWKT "USGS-15-CA-brawley-e1957-s1957-p1961.jpg: addLater10" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/10356119>,
+        <https://www.openstreetmap.org/way/10356122> .
+
+my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id11 rdfs:label "4th Street" ;
+    geo:asWKT "USGS-15-CA-brawley-e1957-s1957-p1961.jpg: addLater11" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/10357288> .
+
+my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id12 rdfs:label "8th Street" ;
+    geo:asWKT "USGS-15-CA-brawley-e1957-s1957-p1961.jpg: addLater12" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/10358077> .
+
+my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id13 rdfs:label "Sunbeam Recreation Area" ;
+    geo:asWKT "USGS-15-CA-brawley-e1957-s1957-p1961.jpg: addLater13" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358793093>,
+        <http://sws.geonames.org/5399936/> .
+
+my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id14 rdfs:label "Pioneer Memorial Hospital" ;
+    geo:asWKT "USGS-15-CA-brawley-e1957-s1957-p1961.jpg: addLater14" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/way44389150> .
+
+my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id15 rdfs:label "Imperial Valley College" ;
+    geo:asWKT "USGS-15-CA-brawley-e1957-s1957-p1961.jpg: addLater15" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358786320>,
+        <http://linkedgeodata.org/triplify/way44389083>,
+        <http://sws.geonames.org/5359100/> .
+
+my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id2 rdfs:label "Imperial" ;
+    geo:asWKT "USGS-15-CA-brawley-e1957-s1957-p1961.jpg: addLater2" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150959807>,
+        <http://www.wikidata.org/entity/Q930766>,
+        <https://www.openstreetmap.org/node/150959807>,
+        <https://www.openstreetmap.org/relation/2307074> .
+
+my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id3 rdfs:label "Wilsie" ;
+    geo:asWKT "USGS-15-CA-brawley-e1957-s1957-p1961.jpg: addLater3" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150947859>,
+        <http://www.wikidata.org/entity/Q8022902>,
+        <https://www.openstreetmap.org/node/150947859> .
+
+my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id4 rdfs:label "Brawley" ;
+    geo:asWKT "USGS-15-CA-brawley-e1957-s1957-p1961.jpg: addLater4" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150969855>,
+        <http://linkedgeodata.org/triplify/way33113296>,
+        <http://www.wikidata.org/entity/Q902878>,
+        <https://www.openstreetmap.org/node/150969855>,
+        <https://www.openstreetmap.org/relation/112209> .
+
+my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id5 rdfs:label "Seeley" ;
+    geo:asWKT "USGS-15-CA-brawley-e1957-s1957-p1961.jpg: addLater5" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150962018>,
+        <http://linkedgeodata.org/triplify/way33178777>,
+        <http://www.wikidata.org/entity/Q2695873>,
+        <https://www.openstreetmap.org/node/150962018>,
+        <https://www.openstreetmap.org/way/33178777> .
+
+my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id6 rdfs:label "New River" ;
+    geo:asWKT "USGS-15-CA-brawley-e1957-s1957-p1961.jpg: addLater6" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/181017554> .
+
+my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id7 rdfs:label "10th Street" ;
+    geo:asWKT "USGS-15-CA-brawley-e1957-s1957-p1961.jpg: addLater7" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/10357275> .
+
+my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id8 rdfs:label "Imperial Avenue" ;
+    geo:asWKT "USGS-15-CA-brawley-e1957-s1957-p1961.jpg: addLater8" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/10355327> .
+
+my_ns:USGS-15-CA-brawley-e1957-s1957-p1961.jpgfeature_id9 rdfs:label "Ross Avenue" ;
+    geo:asWKT "USGS-15-CA-brawley-e1957-s1957-p1961.jpg: addLater9" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/10357438> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id0 rdfs:label "Little Burros Creek" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater0" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/72958466> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id1 rdfs:label "Bird Rock" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater1" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358761964>,
+        <http://linkedgeodata.org/triplify/node358800909>,
+        <http://sws.geonames.org/5328773/>,
+        <https://www.openstreetmap.org/node/358800909> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id10 rdfs:label "Salmon Cone" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater10" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358808676>,
+        <http://sws.geonames.org/5391342/>,
+        <https://www.openstreetmap.org/node/358808676> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id11 rdfs:label "Lion Peak" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater11" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358801592>,
+        <http://sws.geonames.org/5366687/>,
+        <https://www.openstreetmap.org/node/358801592> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id12 rdfs:label "Alder Creek" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater12" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/72966644> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id13 rdfs:label "Silver Peak" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater13" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358802177>,
+        <http://sws.geonames.org/5395915/>,
+        <https://www.openstreetmap.org/node/358802177> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id14 rdfs:label "Wagner Creek" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater14" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/72970522> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id15 rdfs:label "Three Peaks" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater15" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358802305>,
+        <http://linkedgeodata.org/triplify/node358808817>,
+        <http://sws.geonames.org/5402457/>,
+        <https://www.openstreetmap.org/node/358802305> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id16 rdfs:label "Redwood Gulch" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater16" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/73164401> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id17 rdfs:label "Wild Cattle Creek" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater17" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/72984368> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id18 rdfs:label "Jones Mountain" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater18" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358808180> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id19 rdfs:label "Alder Peak" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater19" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358800736> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id2 rdfs:label "Plaskett Creek" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater2" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/72953769> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id20 rdfs:label "Mount Mars" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater20" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358801702> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id21 rdfs:label "San Carpoforo" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater21" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node2727956599> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id3 rdfs:label "Burro Mtn" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater3" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/549656546> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id4 rdfs:label "Chalk Peak" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater4" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358781918>,
+        <http://linkedgeodata.org/triplify/node358807922>,
+        <http://sws.geonames.org/5335756/>,
+        <https://www.openstreetmap.org/node/358807922> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id5 rdfs:label "Bald Top" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater5" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358807790>,
+        <http://sws.geonames.org/5325837/>,
+        <https://www.openstreetmap.org/node/358807790> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id6 rdfs:label "Plaskett Rock" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater6" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358801941>,
+        <http://sws.geonames.org/5383606/>,
+        <https://www.openstreetmap.org/node/358801941> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id7 rdfs:label "Plaskett" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater7" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150949850>,
+        <http://www.wikidata.org/entity/Q7201743>,
+        <https://www.openstreetmap.org/node/150949850> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id8 rdfs:label "Gorda" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater8" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node89694979>,
+        <http://www.wikidata.org/entity/Q3475150>,
+        <https://www.openstreetmap.org/node/4723193882> .
+
+my_ns:USGS-15-CA-capesanmartin-e1921-s1917.jpgfeature_id9 rdfs:label "San Martin Top" ;
+    geo:asWKT "USGS-15-CA-capesanmartin-e1921-s1917.jpg: addLater9" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358802104>,
+        <http://sws.geonames.org/5392413/>,
+        <https://www.openstreetmap.org/node/358802104> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id0 rdfs:label "Menlo Park" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater0" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150981209>,
+        <http://linkedgeodata.org/triplify/node2160213353>,
+        <http://linkedgeodata.org/triplify/way110326399>,
+        <http://linkedgeodata.org/triplify/way166596381>,
+        <http://www.wikidata.org/entity/Q74195>,
+        <https://www.openstreetmap.org/relation/1544957> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id1 rdfs:label "Stevens Creek" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater1" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/49438370>,
+        <https://www.openstreetmap.org/way/49438374>,
+        <https://www.openstreetmap.org/way/49438382>,
+        <https://www.openstreetmap.org/way/49438402>,
+        <https://www.openstreetmap.org/way/49438764>,
+        <https://www.openstreetmap.org/way/49438779>,
+        <https://www.openstreetmap.org/way/49438930> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id10 rdfs:label "Black Mountain" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater10" ;
+    rdfs:seeAlso <http://sws.geonames.org/5329056/>,
+        <http://www.wikidata.org/entity/Q4921338>,
+        <https://www.openstreetmap.org/node/2398117018> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id11 rdfs:label "Mountain View" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater11" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node30236612>,
+        <http://linkedgeodata.org/triplify/node81013838>,
+        <http://linkedgeodata.org/triplify/way25795737>,
+        <http://www.wikidata.org/entity/Q486860>,
+        <https://www.openstreetmap.org/relation/1544956> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id12 rdfs:label "Oil Creek" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater12" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/42854650> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id13 rdfs:label "Guadalupe Slough" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater13" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/49461028> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id14 rdfs:label "Permanente Creek" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater14" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/49438371>,
+        <https://www.openstreetmap.org/way/49438372>,
+        <https://www.openstreetmap.org/way/49438560>,
+        <https://www.openstreetmap.org/way/49438621>,
+        <https://www.openstreetmap.org/way/49438689>,
+        <https://www.openstreetmap.org/way/49438778>,
+        <https://www.openstreetmap.org/way/49438863> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id15 rdfs:label "Slate Creek" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater15" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/100573639> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id16 rdfs:label "San Francisquito Creek" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater16" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/49231100>,
+        <https://www.openstreetmap.org/way/49231203>,
+        <https://www.openstreetmap.org/way/49231251>,
+        <https://www.openstreetmap.org/way/49231258>,
+        <https://www.openstreetmap.org/way/49231265>,
+        <https://www.openstreetmap.org/way/49231268>,
+        <https://www.openstreetmap.org/way/49231272> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id17 rdfs:label "Mowry Slough" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater17" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/109820294>,
+        <https://www.openstreetmap.org/way/109821509> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id18 rdfs:label "Mindego Hill" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater18" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358770820>,
+        <http://sws.geonames.org/5373371/>,
+        <https://www.openstreetmap.org/node/358770820> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id19 rdfs:label "Saratoga" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater19" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150947890>,
+        <http://www.wikidata.org/entity/Q927163>,
+        <https://www.openstreetmap.org/node/150947890>,
+        <https://www.openstreetmap.org/relation/3501739> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id2 rdfs:label "Mindego Creek" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater2" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/100573650> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id20 rdfs:label "Alpine Creek" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater20" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/100573691> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id21 rdfs:label "Bear Creek" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater21" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/100573595> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id22 rdfs:label "Cordilleras Creek" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater22" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/24294478>,
+        <https://www.openstreetmap.org/way/63071706> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id23 rdfs:label "Los Trancos Creek" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater23" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/49231102>,
+        <https://www.openstreetmap.org/way/49231147>,
+        <https://www.openstreetmap.org/way/49231149>,
+        <https://www.openstreetmap.org/way/49231213>,
+        <https://www.openstreetmap.org/way/49231221> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id24 rdfs:label "Stanford University" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater24" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node260542461>,
+        <http://linkedgeodata.org/triplify/way29268613> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id25 rdfs:label "San Antonio" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater25" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node30236493>,
+        <http://linkedgeodata.org/triplify/way334360434> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id26 rdfs:label "San Jose" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater26" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/way38549975> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id3 rdfs:label "Calabazas Creek" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater3" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/49460197>,
+        <https://www.openstreetmap.org/way/49460204>,
+        <https://www.openstreetmap.org/way/49461074>,
+        <https://www.openstreetmap.org/way/49461417>,
+        <https://www.openstreetmap.org/way/49461519>,
+        <https://www.openstreetmap.org/way/49461587> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id4 rdfs:label "Palo Alto" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater4" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node2160213354>,
+        <http://linkedgeodata.org/triplify/node81008084>,
+        <http://linkedgeodata.org/triplify/way19142252>,
+        <http://www.wikidata.org/entity/Q47265>,
+        <https://www.openstreetmap.org/relation/1544955> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id5 rdfs:label "Searsville Lake" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater5" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/50372775> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id6 rdfs:label "Table Mountain" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater6" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358777003>,
+        <http://linkedgeodata.org/triplify/node358804188>,
+        <http://sws.geonames.org/5400838/>,
+        <http://sws.geonames.org/5400839/>,
+        <https://www.openstreetmap.org/node/358804188>,
+        <https://www.openstreetmap.org/node/5312887735> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id7 rdfs:label "Langley Hill" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater7" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358806698>,
+        <http://sws.geonames.org/5365045/>,
+        <https://www.openstreetmap.org/node/358806698> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id8 rdfs:label "Peters Creek" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater8" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/100573508>,
+        <https://www.openstreetmap.org/way/42854534> .
+
+my_ns:USGS-15-CA-paloalto-e1899-s1895-rp1911.jpgfeature_id9 rdfs:label "Cooley Landing" ;
+    geo:asWKT "USGS-15-CA-paloalto-e1899-s1895-rp1911.jpg: addLater9" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150951193>,
+        <https://www.openstreetmap.org/node/150951193> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id0 rdfs:label "Sausalito" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater0" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150948838>,
+        <http://www.wikidata.org/entity/Q828729>,
+        <https://www.openstreetmap.org/relation/2829689> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id1 rdfs:label "Lake Merritt" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater1" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1325354928>,
+        <http://linkedgeodata.org/triplify/node1325354934>,
+        <http://linkedgeodata.org/triplify/node1325354935>,
+        <http://linkedgeodata.org/triplify/node1378045532>,
+        <http://linkedgeodata.org/triplify/node2150077199>,
+        <http://linkedgeodata.org/triplify/node2239764372>,
+        <http://linkedgeodata.org/triplify/node2239764377>,
+        <http://www.wikidata.org/entity/Q3623431>,
+        <https://www.openstreetmap.org/relation/34513> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id10 rdfs:label "Berkeley" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater10" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node100571506>,
+        <http://linkedgeodata.org/triplify/node2144917714>,
+        <http://www.wikidata.org/entity/Q484678>,
+        <https://www.openstreetmap.org/relation/2833528>,
+        <https://www.openstreetmap.org/way/7864022> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id11 rdfs:label "San Quentin" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater11" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150951528>,
+        <http://www.wikidata.org/entity/Q7415190>,
+        <https://www.openstreetmap.org/node/150951528> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id12 rdfs:label "The Sisters" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater12" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358777231>,
+        <http://sws.geonames.org/5396150/>,
+        <http://www.wikidata.org/entity/Q7764534>,
+        <https://www.openstreetmap.org/node/358777231> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id13 rdfs:label "Fort Mason" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater13" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/8917444> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id14 rdfs:label "Needles" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater14" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358771486>,
+        <https://www.openstreetmap.org/node/358771486> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id15 rdfs:label "Strawberry Creek" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater15" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/27780894> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id16 rdfs:label "Mountain Lake" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater16" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/16650677> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id17 rdfs:label "Berkeley Hills" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater17" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node2767529732>,
+        <http://www.wikidata.org/entity/Q4892037>,
+        <https://www.openstreetmap.org/node/2767529732> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id18 rdfs:label "North Berkeley" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater18" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node2052358398>,
+        <http://linkedgeodata.org/triplify/node2239764382>,
+        <http://linkedgeodata.org/triplify/node828422258>,
+        <http://linkedgeodata.org/triplify/way69020798>,
+        <http://www.wikidata.org/entity/Q7054171>,
+        <https://www.openstreetmap.org/node/2052358398> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id19 rdfs:label "Alameda" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater19" ;
+    rdfs:seeAlso <http://www.wikidata.org/entity/Q490744>,
+        <https://www.openstreetmap.org/relation/2999120> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id2 rdfs:label "Lorin" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater2" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node2767529755>,
+        <http://www.wikidata.org/entity/Q6681221>,
+        <https://www.openstreetmap.org/node/2767529755> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id20 rdfs:label "San Pablo" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater20" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150955856>,
+        <http://www.wikidata.org/entity/Q983863>,
+        <https://www.openstreetmap.org/node/150955856>,
+        <https://www.openstreetmap.org/relation/3704291> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id21 rdfs:label "Giant" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater21" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150961995>,
+        <https://www.openstreetmap.org/node/150961995> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id22 rdfs:label "Dwight Way" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater22" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/way43256415>,
+        <https://www.openstreetmap.org/way/6327885> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id23 rdfs:label "Strawberry Hill" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater23" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1948074360>,
+        <http://linkedgeodata.org/triplify/node358807454>,
+        <http://sws.geonames.org/5399340/>,
+        <http://www.wikidata.org/entity/Q7622434>,
+        <https://www.openstreetmap.org/node/358807454> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id24 rdfs:label "Telegraph Hill" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater24" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1680475626>,
+        <http://sws.geonames.org/5401353/>,
+        <http://www.wikidata.org/entity/Q1283754>,
+        <https://www.openstreetmap.org/node/1680475626>,
+        <https://www.openstreetmap.org/node/358807538>,
+        <https://www.openstreetmap.org/way/7870256> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id25 rdfs:label "Lone Mountain" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater25" ;
+    rdfs:seeAlso <http://www.wikidata.org/entity/Q6671312>,
+        <https://www.openstreetmap.org/node/358806769> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id26 rdfs:label "Ashby Avenue" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater26" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/34361024> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id27 rdfs:label "Codornices Creek" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater27" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/193221904>,
+        <https://www.openstreetmap.org/way/28474584> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id28 rdfs:label "Presidio" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater28" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node2383254153> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id29 rdfs:label "Mission Rock" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater29" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1996610647> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id3 rdfs:label "Wildcat Creek" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater3" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/28595807>,
+        <https://www.openstreetmap.org/way/28595813>,
+        <https://www.openstreetmap.org/way/548760135> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id30 rdfs:label "Oakland" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater30" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150980683> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id31 rdfs:label "The Brothers" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater31" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358777173>,
+        <http://sws.geonames.org/5331012/> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id32 rdfs:label "Red Rock" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater32" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358773371>,
+        <http://linkedgeodata.org/triplify/way150810774>,
+        <http://sws.geonames.org/5386646/> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id33 rdfs:label "San Francisco" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater33" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node26819236>,
+        <http://linkedgeodata.org/triplify/node316944780> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id34 rdfs:label "Stege" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater34" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150947370> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id4 rdfs:label "West Berkeley" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater4" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150946943>,
+        <http://www.wikidata.org/entity/Q7984463>,
+        <https://www.openstreetmap.org/node/150946943> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id5 rdfs:label "Temescal" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater5" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1102403156>,
+        <http://www.wikidata.org/entity/Q7698094>,
+        <https://www.openstreetmap.org/node/1102403156> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id6 rdfs:label "Cerrito Creek" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater6" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/152178355>,
+        <https://www.openstreetmap.org/way/303267867>,
+        <https://www.openstreetmap.org/way/303267868>,
+        <https://www.openstreetmap.org/way/418217242> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id7 rdfs:label "Golden Gate" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater7" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358855351>,
+        <http://www.wikidata.org/entity/Q5579418>,
+        <https://www.openstreetmap.org/node/4609282243>,
+        <https://www.openstreetmap.org/way/515310570> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id8 rdfs:label "Belvedere" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater8" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150973759>,
+        <http://www.wikidata.org/entity/Q2054234>,
+        <https://www.openstreetmap.org/node/150973759>,
+        <https://www.openstreetmap.org/relation/2829688> .
+
+my_ns:USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpgfeature_id9 rdfs:label "San Pablo Creek" ;
+    geo:asWKT "USGS-15-CA-sanfrancisco-e1899-s1892-rp1911.jpg: addLater9" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/119688012>,
+        <https://www.openstreetmap.org/way/119688013>,
+        <https://www.openstreetmap.org/way/188319187>,
+        <https://www.openstreetmap.org/way/35553654>,
+        <https://www.openstreetmap.org/way/474658662> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id0 rdfs:label "Grouse Creek" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater0" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/279668452> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id1 rdfs:label "Herring Creek" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater1" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/503079074> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id10 rdfs:label "Relief Creek" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater10" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/279672363> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id11 rdfs:label "Dardanelles Cone" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater11" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358764456>,
+        <http://sws.geonames.org/5341546/>,
+        <http://www.wikidata.org/entity/Q5222423>,
+        <https://www.openstreetmap.org/node/358764456> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id12 rdfs:label "Deadman Creek" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater12" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/395640552> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id13 rdfs:label "Tiltill Mountain" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater13" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358796286>,
+        <http://sws.geonames.org/5402635/>,
+        <https://www.openstreetmap.org/node/358796286> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id14 rdfs:label "Edith Lake" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater14" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/207242996> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id15 rdfs:label "Kerrick Canyon" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater15" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node3707791053>,
+        <https://www.openstreetmap.org/node/3707791053> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id16 rdfs:label "Tilden Lake" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater16" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/366801357> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id17 rdfs:label "Rancheria Creek" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater17" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/116595702> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id18 rdfs:label "The Iceberg" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater18" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358777199>,
+        <http://sws.geonames.org/5358869/>,
+        <https://www.openstreetmap.org/node/358777199> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id19 rdfs:label "Clark Fork" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater19" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/300877739> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id2 rdfs:label "Granite Dome" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater2" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358797967>,
+        <http://sws.geonames.org/5353552/>,
+        <https://www.openstreetmap.org/node/358797967> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id20 rdfs:label "Cherry Ridge" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater20" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node919332418>,
+        <https://www.openstreetmap.org/node/919332418> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id21 rdfs:label "Castle Rock" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater21" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358797194>,
+        <http://linkedgeodata.org/triplify/node358809675>,
+        <http://linkedgeodata.org/triplify/node460218759>,
+        <http://sws.geonames.org/5334888/>,
+        <https://www.openstreetmap.org/node/358797194> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id22 rdfs:label "Dorothy Lake" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater22" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/83230426> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id23 rdfs:label "Cow Creek" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater23" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150958980>,
+        <https://www.openstreetmap.org/node/150958980>,
+        <https://www.openstreetmap.org/way/503313680> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id24 rdfs:label "Kibbie Lake" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater24" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/30578927> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id25 rdfs:label "Kennedy Lake" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater25" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/38803335> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id26 rdfs:label "Huckleberry Lake" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater26" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/283741753> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id27 rdfs:label "Hyatt Lake" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater27" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/78291482> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id28 rdfs:label "Duck Lake" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater28" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/66758384> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id29 rdfs:label "Stubblefield Canyon" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater29" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/366801354> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id3 rdfs:label "Mary Lake" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater3" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/283741758> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id30 rdfs:label "Kibbie Creek" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater30" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/207255925> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id31 rdfs:label "Eagle Creek" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater31" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/503308482> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id32 rdfs:label "Thompson Canyon" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater32" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/366801355> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id33 rdfs:label "Lake Vernon" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater33" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/207241232> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id34 rdfs:label "Benson Lake" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater34" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/83230155> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id35 rdfs:label "Flora Lake" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater35" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/207241229> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id36 rdfs:label "Emigrant Lake" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater36" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/182800062> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id37 rdfs:label "Bull Run Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater37" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358762682>,
+        <https://www.openstreetmap.org/node/358802656> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id38 rdfs:label "Sonora Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater38" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358776249> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id39 rdfs:label "Iceberg Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater39" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358767956> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id4 rdfs:label "Twin Lakes" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater4" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/279675621>,
+        <https://www.openstreetmap.org/way/279675631> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id40 rdfs:label "Disaster Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater40" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358764773> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id41 rdfs:label "Fish Valley Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater41" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358765884> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id42 rdfs:label "Red Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater42" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358773361> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id43 rdfs:label "Cherry Creek" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater43" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/521679941> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id44 rdfs:label "Richardson Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater44" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358796228> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id45 rdfs:label "Chittenden Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater45" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358796068> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id46 rdfs:label "Eagle Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater46" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358765050> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id47 rdfs:label "Keyes Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater47" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358796128> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id48 rdfs:label "Leavitt Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater48" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358796143> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id49 rdfs:label "Andrews Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater49" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358795964> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id5 rdfs:label "Arndt Lake" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater5" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/366801348> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id50 rdfs:label "Bald Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater50" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358761377> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id51 rdfs:label "Folger Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater51" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358803916> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id52 rdfs:label "Lost Cannon Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater52" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358769800> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id53 rdfs:label "Antelope Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater53" ;
+    rdfs:seeAlso <http://www.wikidata.org/entity/Q35724301>,
+        <https://www.openstreetmap.org/node/358761017> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id54 rdfs:label "Piute Creek" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater54" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/522218236>,
+        <https://www.openstreetmap.org/way/83473469> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id55 rdfs:label "Mahan Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater55" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358816500> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id56 rdfs:label "Haystack Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater56" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358767296> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id57 rdfs:label "Relief Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater57" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358799404> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id58 rdfs:label "Mercur Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater58" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358806837> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id59 rdfs:label "Falls Creek" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater59" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/363424833> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id6 rdfs:label "Branigan Lake" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater6" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/207242993> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id60 rdfs:label "Gillett Mountain" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater60" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358797923> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id61 rdfs:label "Acker Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater61" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358795556> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id62 rdfs:label "Ehrnbeck Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater62" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358795597> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id63 rdfs:label "Arnot Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater63" ;
+    rdfs:seeAlso <http://www.wikidata.org/entity/Q35724427>,
+        <https://www.openstreetmap.org/node/358796647> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id64 rdfs:label "Price Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater64" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358795630> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id65 rdfs:label "Snow Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater65" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358795708> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id66 rdfs:label "Bartlett Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater66" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358806043> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id67 rdfs:label "Wells Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater67" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358796329>,
+        <https://www.openstreetmap.org/node/358796331> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id68 rdfs:label "Piute Mountain" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater68" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358795617> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id69 rdfs:label "Bigelow Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater69" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358796881> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id7 rdfs:label "Lily Creek" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater7" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/507881988> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id70 rdfs:label "Wheeler Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater70" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358796333> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id71 rdfs:label "Grizzly Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater71" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358795517> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id72 rdfs:label "Henry Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater72" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358767411> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id73 rdfs:label "Schofield Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater73" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358795654> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id74 rdfs:label "Craig Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater74" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358796087> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id75 rdfs:label "Tower Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater75" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358795137> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id76 rdfs:label "Michie Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater76" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358770698> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id77 rdfs:label "White Mountain" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater77" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358778743> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id78 rdfs:label "Kennedy Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater78" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358798398> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id79 rdfs:label "Nance Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater79" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358806893> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id8 rdfs:label "Breeze Creek" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater8" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/366801349> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id80 rdfs:label "Forsyth Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater80" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358766025> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id81 rdfs:label "Stanislaus Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater81" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358776507> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id82 rdfs:label "Whitecliff Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater82" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358804238> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id83 rdfs:label "Kendrick Peak" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater83" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358768618> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id84 rdfs:label "Lilly Lake" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater84" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/182814452> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id85 rdfs:label "Summit Meadow (32059)" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater85" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/474101098> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id86 rdfs:label "Eureka Valley" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater86" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node3049960590> .
+
+my_ns:USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpgfeature_id9 rdfs:label "The Dardanelles" ;
+    geo:asWKT "USGS-30-CA-dardanelles-e1898-s1891-rp1912.jpg: addLater9" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358796272>,
+        <http://sws.geonames.org/5341552/>,
+        <https://www.openstreetmap.org/node/358796272> .
+
+my_ns:USGS-30-CA-holtville-e1907-s1905-rp1946.jpgfeature_id0 rdfs:label "Deer Peak" ;
+    geo:asWKT "USGS-30-CA-holtville-e1907-s1905-rp1946.jpg: addLater0" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358782940>,
+        <http://sws.geonames.org/5342272/>,
+        <https://www.openstreetmap.org/node/358782940> .
+
+my_ns:USGS-30-CA-holtville-e1907-s1905-rp1946.jpgfeature_id1 rdfs:label "Glamis" ;
+    geo:asWKT "USGS-30-CA-holtville-e1907-s1905-rp1946.jpg: addLater1" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150936149>,
+        <https://www.openstreetmap.org/node/150936149> .
+
+my_ns:USGS-30-CA-holtville-e1907-s1905-rp1946.jpgfeature_id2 rdfs:label "Alamo River" ;
+    geo:asWKT "USGS-30-CA-holtville-e1907-s1905-rp1946.jpg: addLater2" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/181017537> .
+
+my_ns:USGS-30-CA-holtville-e1907-s1905-rp1946.jpgfeature_id3 rdfs:label "Baja California" ;
+    geo:asWKT "USGS-30-CA-holtville-e1907-s1905-rp1946.jpg: addLater3" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node3802695890>,
+        <https://www.openstreetmap.org/way/500435561> .
+
+my_ns:USGS-30-CA-holtville-e1907-s1905-rp1946.jpgfeature_id4 rdfs:label "Ruthven" ;
+    geo:asWKT "USGS-30-CA-holtville-e1907-s1905-rp1946.jpg: addLater4" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150939170>,
+        <https://www.openstreetmap.org/node/150939170> .
+
+my_ns:USGS-30-CA-holtville-e1907-s1905-rp1946.jpgfeature_id5 rdfs:label "Holtville" ;
+    geo:asWKT "USGS-30-CA-holtville-e1907-s1905-rp1946.jpg: addLater5" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150963224>,
+        <http://linkedgeodata.org/triplify/way33113145>,
+        <http://www.wikidata.org/entity/Q631666>,
+        <https://www.openstreetmap.org/node/150963224>,
+        <https://www.openstreetmap.org/way/33113145> .
+
+my_ns:USGS-30-CA-holtville-e1907-s1905-rp1946.jpgfeature_id6 rdfs:label "Calexico" ;
+    geo:asWKT "USGS-30-CA-holtville-e1907-s1905-rp1946.jpg: addLater6" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150947841>,
+        <http://linkedgeodata.org/triplify/way33113266>,
+        <http://www.wikidata.org/entity/Q753034>,
+        <https://www.openstreetmap.org/node/150947841>,
+        <https://www.openstreetmap.org/relation/112206> .
+
+my_ns:USGS-30-CA-holtville-e1907-s1905-rp1946.jpgfeature_id7 rdfs:label "Mexico" ;
+    geo:asWKT "USGS-30-CA-holtville-e1907-s1905-rp1946.jpg: addLater7" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node3802705537>,
+        <http://linkedgeodata.org/triplify/node3802705538> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id0 rdfs:label "Toro Peak" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater0" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358793535>,
+        <http://sws.geonames.org/5403011/>,
+        <http://www.wikidata.org/entity/Q7826170>,
+        <https://www.openstreetmap.org/node/358793535> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id1 rdfs:label "Horsethief Creek" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater1" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/320333216> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id10 rdfs:label "Mecca" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater10" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150942993>,
+        <http://www.wikidata.org/entity/Q2097028>,
+        <https://www.openstreetmap.org/relation/2898774> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id11 rdfs:label "Indio" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater11" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150978724>,
+        <http://www.wikidata.org/entity/Q838789>,
+        <https://www.openstreetmap.org/relation/2166020>,
+        <https://www.openstreetmap.org/relation/2632192> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id12 rdfs:label "Indio Mountain" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater12" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358786351> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id13 rdfs:label "Sheep Mountain" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater13" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358792526> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id14 rdfs:label "Coyote Mountain" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater14" ;
+    rdfs:seeAlso <http://www.wikidata.org/entity/Q5180075>,
+        <https://www.openstreetmap.org/node/358782626> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id15 rdfs:label "Haystack Mountain" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater15" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358801406> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id16 rdfs:label "Martinez Mountain" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater16" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358801706> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id17 rdfs:label "San Ysidro Mountain" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater17" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358802110> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id18 rdfs:label "Indian Wells" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater18" ;
+    rdfs:seeAlso <http://www.wikidata.org/entity/Q490714>,
+        <https://www.openstreetmap.org/relation/2865436> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id19 rdfs:label "White Water River" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater19" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/150727309> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id2 rdfs:label "Myoma" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater2" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150944404>,
+        <https://www.openstreetmap.org/node/150944404> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id20 rdfs:label "Santa Rosa Mountains" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater20" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358808699>,
+        <http://sws.geonames.org/5393330/> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id3 rdfs:label "Coyote Creek" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater3" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/7102237> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id4 rdfs:label "Thermal" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater4" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150959080>,
+        <http://www.wikidata.org/entity/Q133921>,
+        <https://www.openstreetmap.org/node/150959080> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id5 rdfs:label "Coachella" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater5" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1737304000>,
+        <http://www.wikidata.org/entity/Q948219>,
+        <https://www.openstreetmap.org/relation/2173440>,
+        <https://www.openstreetmap.org/relation/2530671> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id6 rdfs:label "Rabbit Peak" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater6" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358808578>,
+        <http://sws.geonames.org/5385561/>,
+        <https://www.openstreetmap.org/node/358808578> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id7 rdfs:label "Black Hill" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater7" ;
+    rdfs:seeAlso <http://sws.geonames.org/5328989/>,
+        <http://www.wikidata.org/entity/Q35727588>,
+        <https://www.openstreetmap.org/node/358800915> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id8 rdfs:label "Asbestos Mountain" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater8" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358800811>,
+        <http://sws.geonames.org/5324920/>,
+        <http://www.wikidata.org/entity/Q35724498>,
+        <https://www.openstreetmap.org/node/358800811> .
+
+my_ns:USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpgfeature_id9 rdfs:label "Martinez" ;
+    geo:asWKT "USGS-30-CA-indiospecial-e1904-s1901-rp1910.jpg: addLater9" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150935036>,
+        <https://www.openstreetmap.org/node/150935036> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id0 rdfs:label "Los Alamos" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater0" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150951497>,
+        <http://linkedgeodata.org/triplify/way33180458>,
+        <http://www.wikidata.org/entity/Q1915491>,
+        <https://www.openstreetmap.org/node/150951497>,
+        <https://www.openstreetmap.org/way/33180458> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id1 rdfs:label "Sisquoc River" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater1" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/402929851> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id10 rdfs:label "Santa Maria" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater10" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150977729>,
+        <http://linkedgeodata.org/triplify/way106716910>,
+        <http://www.wikidata.org/entity/Q643953>,
+        <https://www.openstreetmap.org/node/150977729>,
+        <https://www.openstreetmap.org/way/106716910> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id11 rdfs:label "Zaca Lake" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater11" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/149956503> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id12 rdfs:label "Santa Barbara County" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater12" ;
+    rdfs:seeAlso <http://www.wikidata.org/entity/Q108106>,
+        <https://www.openstreetmap.org/relation/396510> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id13 rdfs:label "Cuyama River" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater13" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/73938845> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id14 rdfs:label "Los Olivos" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater14" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150941078>,
+        <https://www.openstreetmap.org/node/150941078> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id15 rdfs:label "Orcutt" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater15" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/way106735541>,
+        <http://linkedgeodata.org/triplify/way106801246>,
+        <http://linkedgeodata.org/triplify/way33180713>,
+        <http://www.wikidata.org/entity/Q1636815>,
+        <https://www.openstreetmap.org/node/3816337556> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id16 rdfs:label "Buellton" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater16" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150933355>,
+        <http://linkedgeodata.org/triplify/way33113769>,
+        <http://www.wikidata.org/entity/Q999905>,
+        <https://www.openstreetmap.org/node/150933355>,
+        <https://www.openstreetmap.org/way/33113769> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id17 rdfs:label "Bicknell" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater17" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150938809>,
+        <https://www.openstreetmap.org/node/150938809> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id18 rdfs:label "Escondido Creek" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater18" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/23144293> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id19 rdfs:label "Garey" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater19" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150934182>,
+        <https://www.openstreetmap.org/node/150934182> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id2 rdfs:label "Santa Ynez" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater2" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150936678>,
+        <http://linkedgeodata.org/triplify/way33180899>,
+        <http://www.wikidata.org/entity/Q1787293>,
+        <https://www.openstreetmap.org/node/150936678>,
+        <https://www.openstreetmap.org/way/33180899> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id20 rdfs:label "Santa Maria River" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater20" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/401465458> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id21 rdfs:label "San Antonio Creek" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater21" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/207800517> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id22 rdfs:label "Santa Rosa Hills" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater22" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358792275>,
+        <http://sws.geonames.org/5393317/>,
+        <https://www.openstreetmap.org/node/358792275> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id23 rdfs:label "Zaca Peak" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater23" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358794976> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id24 rdfs:label "Lookout Mountain" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater24" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358808272> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id25 rdfs:label "Tepusquet Peak" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater25" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358793306> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id26 rdfs:label "Manzanita Mountain" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater26" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358801680> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id27 rdfs:label "Gaviota Peak" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater27" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358784678> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id28 rdfs:label "Bone Mountain" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater28" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358800947> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id29 rdfs:label "Cuaslui Creek" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater29" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/16255087>,
+        <https://www.openstreetmap.org/way/16255090> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id3 rdfs:label "Ballard" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater3" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150959724>,
+        <https://www.openstreetmap.org/node/150959724> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id30 rdfs:label "Redrock Mountain" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater30" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358791055> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id31 rdfs:label "Espada Creek" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater31" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/23144308> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id32 rdfs:label "Santa Agueda Creek" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater32" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/16257625>,
+        <https://www.openstreetmap.org/way/16257626> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id33 rdfs:label "Santa Maria Valley Railroad" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater33" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/way105841695>,
+        <http://linkedgeodata.org/triplify/way105842205>,
+        <http://linkedgeodata.org/triplify/way105842206>,
+        <http://linkedgeodata.org/triplify/way105847265>,
+        <http://linkedgeodata.org/triplify/way105847267>,
+        <http://linkedgeodata.org/triplify/way106486022>,
+        <http://linkedgeodata.org/triplify/way106486023>,
+        <http://linkedgeodata.org/triplify/way106486239>,
+        <http://linkedgeodata.org/triplify/way106486366>,
+        <http://linkedgeodata.org/triplify/way16263580>,
+        <http://linkedgeodata.org/triplify/way16263581>,
+        <http://linkedgeodata.org/triplify/way16263587>,
+        <http://linkedgeodata.org/triplify/way170169465>,
+        <http://linkedgeodata.org/triplify/way170169680>,
+        <http://linkedgeodata.org/triplify/way170170458>,
+        <http://linkedgeodata.org/triplify/way181381690>,
+        <http://linkedgeodata.org/triplify/way181381691>,
+        <http://linkedgeodata.org/triplify/way181381693>,
+        <http://linkedgeodata.org/triplify/way181381699>,
+        <http://linkedgeodata.org/triplify/way181381704>,
+        <http://linkedgeodata.org/triplify/way181381709>,
+        <http://linkedgeodata.org/triplify/way181381712>,
+        <http://linkedgeodata.org/triplify/way181381717>,
+        <http://linkedgeodata.org/triplify/way181381718>,
+        <http://linkedgeodata.org/triplify/way181381720>,
+        <http://linkedgeodata.org/triplify/way181381721> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id34 rdfs:label "Santa Rosa Park" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater34" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358792279>,
+        <http://sws.geonames.org/5393332/> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id35 rdfs:label "1" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater35" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/way249770292> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id4 rdfs:label "Solvang" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater4" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node2657959072>,
+        <http://linkedgeodata.org/triplify/way33113473>,
+        <http://www.wikidata.org/entity/Q822559>,
+        <https://www.openstreetmap.org/node/2657959072>,
+        <https://www.openstreetmap.org/way/33113473> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id5 rdfs:label "Las Cruces" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater5" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150944948>,
+        <https://www.openstreetmap.org/node/150944948> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id6 rdfs:label "Alisal Creek" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater6" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/16258107> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id7 rdfs:label "Gasper Creek" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater7" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/23144674> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id8 rdfs:label "Jalama Creek" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater8" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/23144226> .
+
+my_ns:USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpgfeature_id9 rdfs:label "Sisquoc" ;
+    geo:asWKT "USGS-30-CA-lompoc-e1943-s1903-ap1941-rv1941.jpg: addLater9" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150981493>,
+        <https://www.openstreetmap.org/node/150981493> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id0 rdfs:label "Ballona Lagoon" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater0" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/175762532> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id1 rdfs:label "La Mirada" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater1" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1837296119>,
+        <http://www.wikidata.org/entity/Q517569>,
+        <https://www.openstreetmap.org/relation/2312768> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id10 rdfs:label "Dominguez Channel" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater10" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/156701907>,
+        <https://www.openstreetmap.org/way/159767666>,
+        <https://www.openstreetmap.org/way/159767667>,
+        <https://www.openstreetmap.org/way/166089607>,
+        <https://www.openstreetmap.org/way/432391112> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id11 rdfs:label "Wilmington" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater11" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150959930>,
+        <http://www.wikidata.org/entity/Q8022724>,
+        <https://www.openstreetmap.org/node/150959930> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id12 rdfs:label "Harbor City" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater12" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150932683>,
+        <http://linkedgeodata.org/triplify/way174893052>,
+        <http://www.wikidata.org/entity/Q739011>,
+        <https://www.openstreetmap.org/node/150932683> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id13 rdfs:label "Hawthorne" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater13" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1837324450>,
+        <http://www.wikidata.org/entity/Q688596>,
+        <https://www.openstreetmap.org/relation/2317585> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id14 rdfs:label "Workman Hill" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater14" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358794906>,
+        <http://sws.geonames.org/5410623/>,
+        <https://www.openstreetmap.org/node/358794906> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id15 rdfs:label "Huntington Park" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater15" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150977342>,
+        <https://www.openstreetmap.org/relation/3542193> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id16 rdfs:label "El Nido" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater16" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150973851>,
+        <https://www.openstreetmap.org/node/150973851> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id17 rdfs:label "East Whittier" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater17" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150977627>,
+        <https://www.openstreetmap.org/node/150977627> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id18 rdfs:label "Seal Beach" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater18" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1837286676>,
+        <http://www.wikidata.org/entity/Q593039>,
+        <https://www.openstreetmap.org/relation/5547826> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id19 rdfs:label "Sunset Beach" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater19" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/way56640850>,
+        <http://www.wikidata.org/entity/Q3322861>,
+        <https://www.openstreetmap.org/relation/6016469> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id2 rdfs:label "Carmenita" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater2" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150964318>,
+        <https://www.openstreetmap.org/node/150964318> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id20 rdfs:label "Inglewood" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater20" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150942990>,
+        <http://www.wikidata.org/entity/Q621549>,
+        <https://www.openstreetmap.org/node/150942990>,
+        <https://www.openstreetmap.org/relation/112090> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id21 rdfs:label "Manhattan Beach" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater21" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1837324451>,
+        <http://linkedgeodata.org/triplify/node358788507>,
+        <http://sws.geonames.org/5370089/>,
+        <http://www.wikidata.org/entity/Q568610>,
+        <https://www.openstreetmap.org/relation/2317589> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id22 rdfs:label "Barber City" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater22" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150975946>,
+        <https://www.openstreetmap.org/node/150975946> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id23 rdfs:label "San Pedro Hill" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater23" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150974530>,
+        <https://www.openstreetmap.org/node/150974530> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id24 rdfs:label "Workman" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater24" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150962329>,
+        <https://www.openstreetmap.org/node/150962329> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id25 rdfs:label "Alameda Street" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater25" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/13366006>,
+        <https://www.openstreetmap.org/way/13366037>,
+        <https://www.openstreetmap.org/way/25879046>,
+        <https://www.openstreetmap.org/way/27784397>,
+        <https://www.openstreetmap.org/way/398600454>,
+        <https://www.openstreetmap.org/way/48275113> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id26 rdfs:label "Bolsa Chica Road" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater26" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/way65801336>,
+        <http://linkedgeodata.org/triplify/way65801466>,
+        <https://www.openstreetmap.org/way/27610889>,
+        <https://www.openstreetmap.org/way/65801336> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id27 rdfs:label "Torrance" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater27" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150947529>,
+        <http://www.wikidata.org/entity/Q489197>,
+        <https://www.openstreetmap.org/node/150947529>,
+        <https://www.openstreetmap.org/relation/2314273> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id28 rdfs:label "Terminal Island" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater28" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358796472>,
+        <http://linkedgeodata.org/triplify/way159344658>,
+        <http://sws.geonames.org/5401658/>,
+        <https://www.openstreetmap.org/way/159344658> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id29 rdfs:label "Huntington Beach" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater29" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node876627764>,
+        <http://linkedgeodata.org/triplify/way33149401>,
+        <http://www.wikidata.org/entity/Q5917>,
+        <https://www.openstreetmap.org/node/876627764> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id3 rdfs:label "Willowbrook" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater3" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150945851>,
+        <http://linkedgeodata.org/triplify/node2193672834>,
+        <http://linkedgeodata.org/triplify/node2193672859>,
+        <http://www.wikidata.org/entity/Q1898553>,
+        <https://www.openstreetmap.org/node/150945851> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id30 rdfs:label "Norwalk" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater30" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1837296120>,
+        <http://linkedgeodata.org/triplify/node2193609811>,
+        <http://www.wikidata.org/entity/Q494715>,
+        <https://www.openstreetmap.org/relation/2312830> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id31 rdfs:label "Coyote Creek" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater31" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/24019742> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id32 rdfs:label "Redondo Beach" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater32" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150963509>,
+        <http://linkedgeodata.org/triplify/node270013935>,
+        <http://linkedgeodata.org/triplify/node358791053>,
+        <http://sws.geonames.org/5386792/>,
+        <http://www.wikidata.org/entity/Q840678>,
+        <https://www.openstreetmap.org/relation/2314270> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id33 rdfs:label "Laguna" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater33" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150938197>,
+        <https://www.openstreetmap.org/node/150938197> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id34 rdfs:label "Long Beach" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater34" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1306892812>,
+        <http://linkedgeodata.org/triplify/node1837285602>,
+        <http://www.wikidata.org/entity/Q16739>,
+        <https://www.openstreetmap.org/relation/112100> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id35 rdfs:label "Clearwater" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater35" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150958735>,
+        <https://www.openstreetmap.org/node/150958735> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id36 rdfs:label "Athens" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater36" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150941199>,
+        <https://www.openstreetmap.org/node/150941199> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id37 rdfs:label "Strawberry Park" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater37" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150932767>,
+        <https://www.openstreetmap.org/node/150932767> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id38 rdfs:label "Perry" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater38" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150945408>,
+        <https://www.openstreetmap.org/node/150945408> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id39 rdfs:label "Studebaker" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater39" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150954727>,
+        <https://www.openstreetmap.org/node/150954727> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id4 rdfs:label "Rio Hondo" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater4" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150951227>,
+        <https://www.openstreetmap.org/node/150951227> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id40 rdfs:label "San Gabriel River" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater40" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/158720586>,
+        <https://www.openstreetmap.org/way/224056170> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id41 rdfs:label "Artesia" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater41" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1837300450>,
+        <http://linkedgeodata.org/triplify/node2199131544>,
+        <http://www.wikidata.org/entity/Q526814>,
+        <https://www.openstreetmap.org/relation/2312825> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id42 rdfs:label "Reservation Point" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater42" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/509843468> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id43 rdfs:label "Los Angeles River" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater43" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/159447095>,
+        <https://www.openstreetmap.org/way/167701829> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id44 rdfs:label "Bell" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater44" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150961625>,
+        <http://www.wikidata.org/entity/Q377736>,
+        <https://www.openstreetmap.org/relation/3542101> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id45 rdfs:label "Los Nietos" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater45" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150958728>,
+        <https://www.openstreetmap.org/node/150958728> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id46 rdfs:label "Lennox" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater46" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150972833>,
+        <http://www.wikidata.org/entity/Q1551721>,
+        <https://www.openstreetmap.org/node/150972833> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id47 rdfs:label "Centinela Creek" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater47" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/159608011> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id48 rdfs:label "Santa Fe Springs" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater48" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150952968>,
+        <http://www.wikidata.org/entity/Q948045>,
+        <https://www.openstreetmap.org/relation/2312767> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id49 rdfs:label "Dominguez" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater49" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150958821>,
+        <https://www.openstreetmap.org/node/150958821> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id5 rdfs:label "North Long Beach" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater5" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150943727>,
+        <http://www.wikidata.org/entity/Q7055986>,
+        <https://www.openstreetmap.org/node/150943727> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id50 rdfs:label "Point Fermin" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater50" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/5106761377> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id51 rdfs:label "Venice" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater51" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node26427725>,
+        <http://www.wikidata.org/entity/Q773853>,
+        <https://www.openstreetmap.org/node/26427725>,
+        <https://www.openstreetmap.org/way/514227535> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id52 rdfs:label "Los Alamitos" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater52" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1837294699>,
+        <https://www.openstreetmap.org/node/1837294699> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id53 rdfs:label "Ballona Creek" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater53" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/159257758> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id54 rdfs:label "Hermosa Beach" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater54" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150978158>,
+        <http://www.wikidata.org/entity/Q828712>,
+        <https://www.openstreetmap.org/relation/2317586> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id55 rdfs:label "Westminster" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater55" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/way33154768>,
+        <https://www.openstreetmap.org/relation/112986> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id56 rdfs:label "South Gate" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater56" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1775484348>,
+        <http://www.wikidata.org/entity/Q838772>,
+        <https://www.openstreetmap.org/relation/3529457> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id57 rdfs:label "Downey" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater57" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150973283>,
+        <http://www.wikidata.org/entity/Q488946>,
+        <https://www.openstreetmap.org/relation/3529373> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id58 rdfs:label "Hollydale" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater58" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150956189>,
+        <https://www.openstreetmap.org/node/150956189> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id59 rdfs:label "Watts" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater59" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150935958>,
+        <http://www.wikidata.org/entity/Q1687279>,
+        <https://www.openstreetmap.org/node/150935958> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id6 rdfs:label "Compton" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater6" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1837323613>,
+        <http://linkedgeodata.org/triplify/node2199132880>,
+        <http://www.wikidata.org/entity/Q487119>,
+        <https://www.openstreetmap.org/relation/112057> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id60 rdfs:label "Lomita" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater60" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150960540>,
+        <http://www.wikidata.org/entity/Q984162>,
+        <https://www.openstreetmap.org/relation/2317588> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id61 rdfs:label "Springdale Street" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater61" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/way136652543>,
+        <http://linkedgeodata.org/triplify/way172868435>,
+        <http://linkedgeodata.org/triplify/way172868436>,
+        <http://linkedgeodata.org/triplify/way173400826>,
+        <http://linkedgeodata.org/triplify/way173400827>,
+        <http://linkedgeodata.org/triplify/way181978110>,
+        <http://linkedgeodata.org/triplify/way181978111>,
+        <http://linkedgeodata.org/triplify/way66158337>,
+        <http://linkedgeodata.org/triplify/way66158388>,
+        <https://www.openstreetmap.org/way/13362766>,
+        <https://www.openstreetmap.org/way/172868435>,
+        <https://www.openstreetmap.org/way/66158337> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id62 rdfs:label "Walteria" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater62" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150967702>,
+        <http://www.wikidata.org/entity/Q7966564>,
+        <https://www.openstreetmap.org/node/150967702> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id63 rdfs:label "Bellflower" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater63" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150959801>,
+        <http://www.wikidata.org/entity/Q815979>,
+        <https://www.openstreetmap.org/relation/3521426> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id64 rdfs:label "Fulton Wells" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater64" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150974526>,
+        <https://www.openstreetmap.org/node/150974526> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id65 rdfs:label "Portuguese Bend" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater65" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150964652>,
+        <https://www.openstreetmap.org/node/150964652> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id66 rdfs:label "Lawndale" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater66" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1777729107>,
+        <http://www.wikidata.org/entity/Q985356>,
+        <https://www.openstreetmap.org/relation/2317587> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id67 rdfs:label "Whittier" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater67" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150963169>,
+        <http://linkedgeodata.org/triplify/way262478030>,
+        <http://linkedgeodata.org/triplify/way33105767>,
+        <https://www.openstreetmap.org/relation/112122> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id68 rdfs:label "San Pedro" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater68" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150941753>,
+        <http://www.wikidata.org/entity/Q290356>,
+        <https://www.openstreetmap.org/node/150941753> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id69 rdfs:label "Gardena" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater69" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1777729078>,
+        <http://www.wikidata.org/entity/Q846409>,
+        <https://www.openstreetmap.org/relation/2317584> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id7 rdfs:label "Lynwood" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater7" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150932285>,
+        <http://www.wikidata.org/entity/Q849619>,
+        <https://www.openstreetmap.org/relation/3519914> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id70 rdfs:label "El Segundo" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater70" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node1837324449>,
+        <http://linkedgeodata.org/triplify/node270010007>,
+        <http://www.wikidata.org/entity/Q983859>,
+        <https://www.openstreetmap.org/relation/3502465> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id71 rdfs:label "Atlantic Boulevard" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater71" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/165904671>,
+        <https://www.openstreetmap.org/way/3520070>,
+        <https://www.openstreetmap.org/way/398208572> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id72 rdfs:label "Slater Avenue" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater72" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/13400440>,
+        <https://www.openstreetmap.org/way/13400442>,
+        <https://www.openstreetmap.org/way/158594873> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id73 rdfs:label "Bolsa Avenue" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater73" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/13346600>,
+        <https://www.openstreetmap.org/way/13407683>,
+        <https://www.openstreetmap.org/way/13407684>,
+        <https://www.openstreetmap.org/way/150206979> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id74 rdfs:label "Culver Boulevard" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater74" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/13408628>,
+        <https://www.openstreetmap.org/way/160822406> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id75 rdfs:label "6" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater75" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/way279683235> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id76 rdfs:label "Inspiration Point" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater76" ;
+    rdfs:seeAlso <http://sws.geonames.org/5359548/> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id77 rdfs:label "16" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater77" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/way279683229> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id78 rdfs:label "18" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater78" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/way279683230> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id79 rdfs:label "22" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater79" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node827046394>,
+        <http://linkedgeodata.org/triplify/way279683232> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id8 rdfs:label "Clifton" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater8" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150948208>,
+        <https://www.openstreetmap.org/node/150948208> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id80 rdfs:label "14" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater80" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/way279683227> .
+
+my_ns:USGS-30-CA-sanpedro-e1943-rv1944.jpgfeature_id9 rdfs:label "Long Point" ;
+    geo:asWKT "USGS-30-CA-sanpedro-e1943-rv1944.jpg: addLater9" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/13387754> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id0 rdfs:label "Cottonwood Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater0" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86341906>,
+        <https://www.openstreetmap.org/way/86371881> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id1 rdfs:label "Owl Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater1" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86344407> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id10 rdfs:label "Upper Lake" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater10" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/relation/1284502> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id11 rdfs:label "South Fork Pit River" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater11" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/7931034> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id12 rdfs:label "Clear Lake" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater12" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86315133> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id13 rdfs:label "Lake Annie" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater13" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/7925988>,
+        <https://www.openstreetmap.org/way/86318607> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id14 rdfs:label "Bottle Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater14" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86683719> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id15 rdfs:label "Canby" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater15" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node147133926>,
+        <https://www.openstreetmap.org/node/147133926> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id16 rdfs:label "Willow Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater16" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86342491>,
+        <https://www.openstreetmap.org/way/86374889> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id17 rdfs:label "Fitzhugh Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater17" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86345771> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id18 rdfs:label "Rattlesnake Butte" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater18" ;
+    rdfs:seeAlso <http://sws.geonames.org/5569992/>,
+        <https://www.openstreetmap.org/node/358796210> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id19 rdfs:label "Warren Peak" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater19" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358778326>,
+        <http://sws.geonames.org/5573384/>,
+        <https://www.openstreetmap.org/node/358778326> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id2 rdfs:label "Beaver Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater2" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86690200> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id20 rdfs:label "Lassen Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater20" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86344501> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id21 rdfs:label "Lower Lake" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater21" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/relation/1284453> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id22 rdfs:label "Fletcher Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater22" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86656298> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id23 rdfs:label "Sugar Hill" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater23" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358776692>,
+        <http://sws.geonames.org/5572239/>,
+        <https://www.openstreetmap.org/node/358776692> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id24 rdfs:label "Pit River" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater24" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86345118> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id25 rdfs:label "Dry Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater25" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86344346>,
+        <https://www.openstreetmap.org/way/86346783> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id26 rdfs:label "Boles Meadow" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater26" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/relation/1288166>,
+        <https://www.openstreetmap.org/way/86522749>,
+        <https://www.openstreetmap.org/way/86593457>,
+        <https://www.openstreetmap.org/way/86593641>,
+        <https://www.openstreetmap.org/way/86628357>,
+        <https://www.openstreetmap.org/way/86630370> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id27 rdfs:label "Adin" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater27" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node147132132>,
+        <https://www.openstreetmap.org/node/147132132> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id28 rdfs:label "Antelope Plains" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater28" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/relation/1284442>,
+        <https://www.openstreetmap.org/relation/1284598> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id29 rdfs:label "Rattlesnake Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater29" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/7929027> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id3 rdfs:label "Blue Lake" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater3" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86316868> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id30 rdfs:label "Raider Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater30" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86345956> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id31 rdfs:label "Pine Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater31" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86344496>,
+        <https://www.openstreetmap.org/way/86474765> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id32 rdfs:label "Rock Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater32" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86373290> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id33 rdfs:label "Eagle Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater33" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86344281> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id34 rdfs:label "Cedarville" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater34" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node147133956>,
+        <https://www.openstreetmap.org/node/147133956> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id35 rdfs:label "Fandango Peak" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater35" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358765773>,
+        <http://sws.geonames.org/5563501/>,
+        <https://www.openstreetmap.org/node/358765773> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id36 rdfs:label "Snake Lake" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater36" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86304659> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id37 rdfs:label "Eagleville" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater37" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node147134117>,
+        <https://www.openstreetmap.org/node/147134117> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id38 rdfs:label "Davis Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater38" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node147132348>,
+        <https://www.openstreetmap.org/node/147132348>,
+        <https://www.openstreetmap.org/way/86346070> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id39 rdfs:label "Fort Bidwell" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater39" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node147134387>,
+        <https://www.openstreetmap.org/node/147134387> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id4 rdfs:label "Goose Lake" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater4" ;
+    rdfs:seeAlso <http://www.wikidata.org/entity/Q1309664>,
+        <https://www.openstreetmap.org/way/29020692> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id40 rdfs:label "Delta Lake" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater40" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/7925973>,
+        <https://www.openstreetmap.org/way/86311272> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id41 rdfs:label "Timbered Mountain" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater41" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358777355> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id42 rdfs:label "Blue Mountain" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater42" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358806131> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id43 rdfs:label "Middle Alkali Lake" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater43" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86314451> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id44 rdfs:label "Twelvemile Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater44" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86343941>,
+        <https://www.openstreetmap.org/way/86373518> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id45 rdfs:label "Joseph Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater45" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86341941> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id46 rdfs:label "Modoc" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater46" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node316944807> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id5 rdfs:label "Eagle Peak" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater5" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358765057>,
+        <http://sws.geonames.org/5563031/>,
+        <https://www.openstreetmap.org/node/358765057> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id6 rdfs:label "North Fork Pit River" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater6" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86343393>,
+        <https://www.openstreetmap.org/way/86375328>,
+        <https://www.openstreetmap.org/way/86377133> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id7 rdfs:label "North Fork Willow Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater7" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/86732831> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id8 rdfs:label "Lassen" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater8" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/7924851> .
+
+my_ns:USGS-60-CA-alturas-e1892-rp1904.jpgfeature_id9 rdfs:label "Parker Creek" ;
+    geo:asWKT "USGS-60-CA-alturas-e1892-rp1904.jpg: addLater9" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/7926655>,
+        <https://www.openstreetmap.org/way/86343356> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id0 rdfs:label "Cadiz" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater0" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150963869>,
+        <http://linkedgeodata.org/triplify/way156898341>,
+        <http://linkedgeodata.org/triplify/way156898342>,
+        <http://linkedgeodata.org/triplify/way156898343>,
+        <http://linkedgeodata.org/triplify/way156898344>,
+        <http://linkedgeodata.org/triplify/way156898345>,
+        <http://linkedgeodata.org/triplify/way156898346>,
+        <http://linkedgeodata.org/triplify/way156898347>,
+        <http://linkedgeodata.org/triplify/way156898348>,
+        <http://linkedgeodata.org/triplify/way156898351>,
+        <http://linkedgeodata.org/triplify/way156898353>,
+        <http://linkedgeodata.org/triplify/way156898355>,
+        <http://linkedgeodata.org/triplify/way156898358>,
+        <http://linkedgeodata.org/triplify/way156898360>,
+        <http://linkedgeodata.org/triplify/way156898362>,
+        <http://linkedgeodata.org/triplify/way156898367>,
+        <http://linkedgeodata.org/triplify/way156898369>,
+        <http://linkedgeodata.org/triplify/way157177839>,
+        <http://linkedgeodata.org/triplify/way157177844>,
+        <http://linkedgeodata.org/triplify/way157177848>,
+        <http://linkedgeodata.org/triplify/way157177849>,
+        <http://linkedgeodata.org/triplify/way157177853>,
+        <http://linkedgeodata.org/triplify/way157177854>,
+        <http://linkedgeodata.org/triplify/way157177859>,
+        <http://linkedgeodata.org/triplify/way157177861>,
+        <http://linkedgeodata.org/triplify/way157177862>,
+        <http://linkedgeodata.org/triplify/way157177864>,
+        <http://linkedgeodata.org/triplify/way157177865>,
+        <http://linkedgeodata.org/triplify/way157177870>,
+        <http://linkedgeodata.org/triplify/way157177874>,
+        <http://linkedgeodata.org/triplify/way157177875>,
+        <http://linkedgeodata.org/triplify/way157177877>,
+        <http://linkedgeodata.org/triplify/way157177878>,
+        <http://linkedgeodata.org/triplify/way157177879>,
+        <http://linkedgeodata.org/triplify/way157177880>,
+        <http://linkedgeodata.org/triplify/way157177881>,
+        <http://linkedgeodata.org/triplify/way157177882>,
+        <http://linkedgeodata.org/triplify/way157177883>,
+        <http://linkedgeodata.org/triplify/way157177884>,
+        <http://linkedgeodata.org/triplify/way157183101>,
+        <http://linkedgeodata.org/triplify/way157183102>,
+        <http://linkedgeodata.org/triplify/way157183103>,
+        <http://linkedgeodata.org/triplify/way157183104>,
+        <http://linkedgeodata.org/triplify/way157183105>,
+        <http://linkedgeodata.org/triplify/way157183106>,
+        <http://linkedgeodata.org/triplify/way157192963>,
+        <http://linkedgeodata.org/triplify/way157192964>,
+        <http://linkedgeodata.org/triplify/way157192965>,
+        <http://linkedgeodata.org/triplify/way157192966>,
+        <http://linkedgeodata.org/triplify/way157192967>,
+        <http://linkedgeodata.org/triplify/way157192968>,
+        <http://linkedgeodata.org/triplify/way157192969>,
+        <http://linkedgeodata.org/triplify/way157192970>,
+        <http://linkedgeodata.org/triplify/way157192971>,
+        <http://linkedgeodata.org/triplify/way157192972>,
+        <http://linkedgeodata.org/triplify/way157192973>,
+        <http://linkedgeodata.org/triplify/way157192974>,
+        <http://linkedgeodata.org/triplify/way157192975>,
+        <http://linkedgeodata.org/triplify/way157192976>,
+        <http://linkedgeodata.org/triplify/way157195208>,
+        <http://linkedgeodata.org/triplify/way157195211>,
+        <http://linkedgeodata.org/triplify/way157195214>,
+        <http://linkedgeodata.org/triplify/way157195219>,
+        <http://linkedgeodata.org/triplify/way157195225>,
+        <http://linkedgeodata.org/triplify/way157195228>,
+        <http://linkedgeodata.org/triplify/way157195240>,
+        <http://linkedgeodata.org/triplify/way157195244>,
+        <http://linkedgeodata.org/triplify/way157197178>,
+        <http://linkedgeodata.org/triplify/way157197179>,
+        <http://linkedgeodata.org/triplify/way157197180>,
+        <http://linkedgeodata.org/triplify/way157197181>,
+        <http://linkedgeodata.org/triplify/way157197182>,
+        <http://linkedgeodata.org/triplify/way157197183>,
+        <http://linkedgeodata.org/triplify/way157197184>,
+        <http://linkedgeodata.org/triplify/way157197185>,
+        <http://linkedgeodata.org/triplify/way157197186>,
+        <http://linkedgeodata.org/triplify/way157197187>,
+        <http://linkedgeodata.org/triplify/way157197188>,
+        <http://linkedgeodata.org/triplify/way157197189>,
+        <http://linkedgeodata.org/triplify/way157197190>,
+        <http://linkedgeodata.org/triplify/way157197191>,
+        <http://linkedgeodata.org/triplify/way157197192>,
+        <http://linkedgeodata.org/triplify/way157197193>,
+        <http://linkedgeodata.org/triplify/way157197194>,
+        <http://linkedgeodata.org/triplify/way157197195>,
+        <http://linkedgeodata.org/triplify/way157197196>,
+        <http://linkedgeodata.org/triplify/way157197197>,
+        <http://linkedgeodata.org/triplify/way157197198>,
+        <http://linkedgeodata.org/triplify/way157197199>,
+        <http://linkedgeodata.org/triplify/way157197200>,
+        <http://linkedgeodata.org/triplify/way157197201>,
+        <http://linkedgeodata.org/triplify/way157197202>,
+        <http://linkedgeodata.org/triplify/way157197203>,
+        <http://linkedgeodata.org/triplify/way157488574>,
+        <http://linkedgeodata.org/triplify/way157488575>,
+        <http://linkedgeodata.org/triplify/way157488577>,
+        <http://linkedgeodata.org/triplify/way157488579>,
+        <http://linkedgeodata.org/triplify/way157488580>,
+        <http://linkedgeodata.org/triplify/way157488581>,
+        <http://linkedgeodata.org/triplify/way157488582>,
+        <http://linkedgeodata.org/triplify/way157488583>,
+        <http://linkedgeodata.org/triplify/way7464845>,
+        <http://www.wikidata.org/entity/Q5016510>,
+        <https://www.openstreetmap.org/node/150963869> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id1 rdfs:label "Essex" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater1" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150981392>,
+        <http://www.wikidata.org/entity/Q5399620>,
+        <https://www.openstreetmap.org/node/150981392> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id10 rdfs:label "Siberia" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater10" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150971835>,
+        <https://www.openstreetmap.org/node/150971835> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id11 rdfs:label "Bush" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater11" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150948763>,
+        <https://www.openstreetmap.org/node/150948763> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id12 rdfs:label "Danby" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater12" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150959209>,
+        <https://www.openstreetmap.org/node/150959209> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id13 rdfs:label "Flynn" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater13" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150971364>,
+        <https://www.openstreetmap.org/node/150971364> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id14 rdfs:label "Archer" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater14" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150962092>,
+        <https://www.openstreetmap.org/node/150962092> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id15 rdfs:label "Glasgow" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater15" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/150959548> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id16 rdfs:label "Pinto Mountains" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater16" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358790639>,
+        <http://sws.geonames.org/5383242/> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id17 rdfs:label "Old Dad Mountains" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater17" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358789998>,
+        <http://sws.geonames.org/5378970/> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id18 rdfs:label "Dale Lake" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater18" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node585366362> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id2 rdfs:label "Fishel" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater2" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150970473>,
+        <https://www.openstreetmap.org/node/150970473> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id3 rdfs:label "Goffs" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater3" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150971513>,
+        <https://www.openstreetmap.org/node/150971513> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id4 rdfs:label "Chubbuck" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater4" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150953167>,
+        <https://www.openstreetmap.org/node/150953167> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id5 rdfs:label "Chambless" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater5" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150974022>,
+        <http://www.wikidata.org/entity/Q5069691>,
+        <https://www.openstreetmap.org/node/150974022> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id6 rdfs:label "Bagdad" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater6" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150938807>,
+        <http://www.wikidata.org/entity/Q139063>,
+        <https://www.openstreetmap.org/node/150938807> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id7 rdfs:label "Fenner" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater7" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150951951>,
+        <https://www.openstreetmap.org/node/150951951> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id8 rdfs:label "Milligan" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater8" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150979322>,
+        <https://www.openstreetmap.org/node/150979322> .
+
+my_ns:USGS-60-CA-amboy-e1942.jpgfeature_id9 rdfs:label "Amboy" ;
+    geo:asWKT "USGS-60-CA-amboy-e1942.jpg: addLater9" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150965592>,
+        <http://www.wikidata.org/entity/Q458547>,
+        <https://www.openstreetmap.org/node/150965592> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id0 rdfs:label "Cadiz" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater0" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150963869>,
+        <http://linkedgeodata.org/triplify/way156898341>,
+        <http://linkedgeodata.org/triplify/way156898342>,
+        <http://linkedgeodata.org/triplify/way156898343>,
+        <http://linkedgeodata.org/triplify/way156898344>,
+        <http://linkedgeodata.org/triplify/way156898345>,
+        <http://linkedgeodata.org/triplify/way156898346>,
+        <http://linkedgeodata.org/triplify/way156898347>,
+        <http://linkedgeodata.org/triplify/way156898348>,
+        <http://linkedgeodata.org/triplify/way156898351>,
+        <http://linkedgeodata.org/triplify/way156898353>,
+        <http://linkedgeodata.org/triplify/way156898355>,
+        <http://linkedgeodata.org/triplify/way156898358>,
+        <http://linkedgeodata.org/triplify/way156898360>,
+        <http://linkedgeodata.org/triplify/way156898362>,
+        <http://linkedgeodata.org/triplify/way156898367>,
+        <http://linkedgeodata.org/triplify/way156898369>,
+        <http://linkedgeodata.org/triplify/way157177839>,
+        <http://linkedgeodata.org/triplify/way157177844>,
+        <http://linkedgeodata.org/triplify/way157177848>,
+        <http://linkedgeodata.org/triplify/way157177849>,
+        <http://linkedgeodata.org/triplify/way157177853>,
+        <http://linkedgeodata.org/triplify/way157177854>,
+        <http://linkedgeodata.org/triplify/way157177859>,
+        <http://linkedgeodata.org/triplify/way157177861>,
+        <http://linkedgeodata.org/triplify/way157177862>,
+        <http://linkedgeodata.org/triplify/way157177864>,
+        <http://linkedgeodata.org/triplify/way157177865>,
+        <http://linkedgeodata.org/triplify/way157177870>,
+        <http://linkedgeodata.org/triplify/way157177874>,
+        <http://linkedgeodata.org/triplify/way157177875>,
+        <http://linkedgeodata.org/triplify/way157177877>,
+        <http://linkedgeodata.org/triplify/way157177878>,
+        <http://linkedgeodata.org/triplify/way157177879>,
+        <http://linkedgeodata.org/triplify/way157177880>,
+        <http://linkedgeodata.org/triplify/way157177881>,
+        <http://linkedgeodata.org/triplify/way157177882>,
+        <http://linkedgeodata.org/triplify/way157177883>,
+        <http://linkedgeodata.org/triplify/way157177884>,
+        <http://linkedgeodata.org/triplify/way157183101>,
+        <http://linkedgeodata.org/triplify/way157183102>,
+        <http://linkedgeodata.org/triplify/way157183103>,
+        <http://linkedgeodata.org/triplify/way157183104>,
+        <http://linkedgeodata.org/triplify/way157183105>,
+        <http://linkedgeodata.org/triplify/way157183106>,
+        <http://linkedgeodata.org/triplify/way157192963>,
+        <http://linkedgeodata.org/triplify/way157192964>,
+        <http://linkedgeodata.org/triplify/way157192965>,
+        <http://linkedgeodata.org/triplify/way157192966>,
+        <http://linkedgeodata.org/triplify/way157192967>,
+        <http://linkedgeodata.org/triplify/way157192968>,
+        <http://linkedgeodata.org/triplify/way157192969>,
+        <http://linkedgeodata.org/triplify/way157192970>,
+        <http://linkedgeodata.org/triplify/way157192971>,
+        <http://linkedgeodata.org/triplify/way157192972>,
+        <http://linkedgeodata.org/triplify/way157192973>,
+        <http://linkedgeodata.org/triplify/way157192974>,
+        <http://linkedgeodata.org/triplify/way157192975>,
+        <http://linkedgeodata.org/triplify/way157192976>,
+        <http://linkedgeodata.org/triplify/way157195208>,
+        <http://linkedgeodata.org/triplify/way157195211>,
+        <http://linkedgeodata.org/triplify/way157195214>,
+        <http://linkedgeodata.org/triplify/way157195219>,
+        <http://linkedgeodata.org/triplify/way157195225>,
+        <http://linkedgeodata.org/triplify/way157195228>,
+        <http://linkedgeodata.org/triplify/way157195240>,
+        <http://linkedgeodata.org/triplify/way157195244>,
+        <http://linkedgeodata.org/triplify/way157197178>,
+        <http://linkedgeodata.org/triplify/way157197179>,
+        <http://linkedgeodata.org/triplify/way157197180>,
+        <http://linkedgeodata.org/triplify/way157197181>,
+        <http://linkedgeodata.org/triplify/way157197182>,
+        <http://linkedgeodata.org/triplify/way157197183>,
+        <http://linkedgeodata.org/triplify/way157197184>,
+        <http://linkedgeodata.org/triplify/way157197185>,
+        <http://linkedgeodata.org/triplify/way157197186>,
+        <http://linkedgeodata.org/triplify/way157197187>,
+        <http://linkedgeodata.org/triplify/way157197188>,
+        <http://linkedgeodata.org/triplify/way157197189>,
+        <http://linkedgeodata.org/triplify/way157197190>,
+        <http://linkedgeodata.org/triplify/way157197191>,
+        <http://linkedgeodata.org/triplify/way157197192>,
+        <http://linkedgeodata.org/triplify/way157197193>,
+        <http://linkedgeodata.org/triplify/way157197194>,
+        <http://linkedgeodata.org/triplify/way157197195>,
+        <http://linkedgeodata.org/triplify/way157197196>,
+        <http://linkedgeodata.org/triplify/way157197197>,
+        <http://linkedgeodata.org/triplify/way157197198>,
+        <http://linkedgeodata.org/triplify/way157197199>,
+        <http://linkedgeodata.org/triplify/way157197200>,
+        <http://linkedgeodata.org/triplify/way157197201>,
+        <http://linkedgeodata.org/triplify/way157197202>,
+        <http://linkedgeodata.org/triplify/way157197203>,
+        <http://linkedgeodata.org/triplify/way157488574>,
+        <http://linkedgeodata.org/triplify/way157488575>,
+        <http://linkedgeodata.org/triplify/way157488577>,
+        <http://linkedgeodata.org/triplify/way157488579>,
+        <http://linkedgeodata.org/triplify/way157488580>,
+        <http://linkedgeodata.org/triplify/way157488581>,
+        <http://linkedgeodata.org/triplify/way157488582>,
+        <http://linkedgeodata.org/triplify/way157488583>,
+        <http://linkedgeodata.org/triplify/way7464845>,
+        <http://www.wikidata.org/entity/Q5016510>,
+        <https://www.openstreetmap.org/node/150963869> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id1 rdfs:label "Essex" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater1" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150981392>,
+        <http://www.wikidata.org/entity/Q5399620>,
+        <https://www.openstreetmap.org/node/150981392> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id10 rdfs:label "Siberia" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater10" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150971835>,
+        <https://www.openstreetmap.org/node/150971835> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id11 rdfs:label "Bush" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater11" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150948763>,
+        <https://www.openstreetmap.org/node/150948763> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id12 rdfs:label "Danby" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater12" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150959209>,
+        <https://www.openstreetmap.org/node/150959209> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id13 rdfs:label "Flynn" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater13" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150971364>,
+        <https://www.openstreetmap.org/node/150971364> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id14 rdfs:label "Archer" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater14" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150962092>,
+        <https://www.openstreetmap.org/node/150962092> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id15 rdfs:label "Glasgow" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater15" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/150959548> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id16 rdfs:label "Pinto Mountains" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater16" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358790639>,
+        <http://sws.geonames.org/5383242/> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id17 rdfs:label "Old Dad Mountains" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater17" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358789998>,
+        <http://sws.geonames.org/5378970/> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id18 rdfs:label "Dale Lake" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater18" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node585366362> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id2 rdfs:label "Fishel" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater2" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150970473>,
+        <https://www.openstreetmap.org/node/150970473> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id3 rdfs:label "Goffs" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater3" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150971513>,
+        <https://www.openstreetmap.org/node/150971513> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id4 rdfs:label "Chubbuck" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater4" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150953167>,
+        <https://www.openstreetmap.org/node/150953167> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id5 rdfs:label "Chambless" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater5" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150974022>,
+        <http://www.wikidata.org/entity/Q5069691>,
+        <https://www.openstreetmap.org/node/150974022> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id6 rdfs:label "Bagdad" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater6" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150938807>,
+        <http://www.wikidata.org/entity/Q139063>,
+        <https://www.openstreetmap.org/node/150938807> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id7 rdfs:label "Fenner" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater7" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150951951>,
+        <https://www.openstreetmap.org/node/150951951> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id8 rdfs:label "Milligan" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater8" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150979322>,
+        <https://www.openstreetmap.org/node/150979322> .
+
+my_ns:USGS-60-CA-amboy-e1943-rv1943.jpgfeature_id9 rdfs:label "Amboy" ;
+    geo:asWKT "USGS-60-CA-amboy-e1943-rv1943.jpg: addLater9" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150965592>,
+        <http://www.wikidata.org/entity/Q458547>,
+        <https://www.openstreetmap.org/node/150965592> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id0 rdfs:label "Nelson Creek" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater0" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/90245410> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id1 rdfs:label "Cornell" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater1" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node147134301>,
+        <https://www.openstreetmap.org/node/147134301> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id10 rdfs:label "Clark Creek" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater10" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/90242686> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id11 rdfs:label "Snake Island" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater11" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358776163>,
+        <http://sws.geonames.org/5571565/>,
+        <https://www.openstreetmap.org/node/358776163> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id12 rdfs:label "Bear Creek" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater12" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/90467850> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id13 rdfs:label "Lookout" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater13" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node147134241>,
+        <https://www.openstreetmap.org/node/147134241> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id14 rdfs:label "Rock Creek" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater14" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/90242969> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id15 rdfs:label "Medicine Lake" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater15" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/27258503> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id16 rdfs:label "Black Fox Mountain" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater16" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358762017> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id17 rdfs:label "Hot Springs" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater17" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/147133577> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id18 rdfs:label "Timber Mountain" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater18" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358777351> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id19 rdfs:label "Dorris" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater19" ;
+    rdfs:seeAlso <http://www.wikidata.org/entity/Q953781>,
+        <https://www.openstreetmap.org/node/147131753>,
+        <https://www.openstreetmap.org/way/33155108> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id2 rdfs:label "Dry Lake" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater2" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/relation/1288820>,
+        <https://www.openstreetmap.org/way/86520049>,
+        <https://www.openstreetmap.org/way/86520128>,
+        <https://www.openstreetmap.org/way/86521903>,
+        <https://www.openstreetmap.org/way/86522769>,
+        <https://www.openstreetmap.org/way/86581597>,
+        <https://www.openstreetmap.org/way/86591185>,
+        <https://www.openstreetmap.org/way/86592081>,
+        <https://www.openstreetmap.org/way/86593448>,
+        <https://www.openstreetmap.org/way/86628381>,
+        <https://www.openstreetmap.org/way/86628682>,
+        <https://www.openstreetmap.org/way/86634351>,
+        <https://www.openstreetmap.org/way/86634458> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id3 rdfs:label "Antelope Creek" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater3" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/10670803> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id4 rdfs:label "Grizzly Peak" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater4" ;
+    rdfs:seeAlso <http://sws.geonames.org/5564548/>,
+        <https://www.openstreetmap.org/node/358798017> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id5 rdfs:label "Pittville" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater5" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node147134257>,
+        <https://www.openstreetmap.org/node/147134257> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id6 rdfs:label "Cinder Cone" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater6" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358797298>,
+        <http://linkedgeodata.org/triplify/node358797300>,
+        <http://linkedgeodata.org/triplify/node358797303>,
+        <http://linkedgeodata.org/triplify/node358797305>,
+        <http://sws.geonames.org/5561434/>,
+        <https://www.openstreetmap.org/node/358797305> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id7 rdfs:label "Bieber" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater7" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node147133908>,
+        <https://www.openstreetmap.org/node/147133908> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id8 rdfs:label "Kosk Creek" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater8" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/90242935> .
+
+my_ns:USGS-60-CA-modoclavabed-e1886-s1884.jpgfeature_id9 rdfs:label "Trout Creek" ;
+    geo:asWKT "USGS-60-CA-modoclavabed-e1886-s1884.jpg: addLater9" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/90246426> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id0 rdfs:label "Wister" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater0" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150961004>,
+        <https://www.openstreetmap.org/node/150961004> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id1 rdfs:label "Salton" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater1" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150938406>,
+        <https://www.openstreetmap.org/node/150938406> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id10 rdfs:label "Coachella Canal" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater10" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/179903147>,
+        <https://www.openstreetmap.org/way/47073079> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id11 rdfs:label "Munyon" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater11" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150935562>,
+        <https://www.openstreetmap.org/node/150935562> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id12 rdfs:label "Bombay Beach" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater12" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150955330>,
+        <http://linkedgeodata.org/triplify/way33178129>,
+        <http://www.wikidata.org/entity/Q2395774>,
+        <https://www.openstreetmap.org/node/150955330>,
+        <https://www.openstreetmap.org/way/33178129> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id13 rdfs:label "Frink" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater13" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150958420>,
+        <https://www.openstreetmap.org/node/150958420> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id14 rdfs:label "Calipatria" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater14" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150950841>,
+        <http://linkedgeodata.org/triplify/way33113222>,
+        <http://linkedgeodata.org/triplify/way33113237>,
+        <http://linkedgeodata.org/triplify/way33113239>,
+        <https://www.openstreetmap.org/node/150950841>,
+        <https://www.openstreetmap.org/relation/112203> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id15 rdfs:label "Mullet Island" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater15" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358789589>,
+        <http://sws.geonames.org/5375767/>,
+        <https://www.openstreetmap.org/node/358789589>,
+        <https://www.openstreetmap.org/way/209134243> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id16 rdfs:label "Desert Center" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater16" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node54312862>,
+        <http://www.wikidata.org/entity/Q2361618>,
+        <https://www.openstreetmap.org/relation/2886323> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id17 rdfs:label "Pope" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater17" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150959350>,
+        <https://www.openstreetmap.org/node/150959350> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id18 rdfs:label "Black Butte" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater18" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node358780817>,
+        <http://sws.geonames.org/5328923/>,
+        <http://www.wikidata.org/entity/Q35727508>,
+        <https://www.openstreetmap.org/node/358780817> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id19 rdfs:label "Niland" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater19" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150971644>,
+        <http://linkedgeodata.org/triplify/way33178246>,
+        <http://www.wikidata.org/entity/Q1606333>,
+        <https://www.openstreetmap.org/node/150971644>,
+        <https://www.openstreetmap.org/way/33178246> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id2 rdfs:label "Truckhaven" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater2" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150938401>,
+        <https://www.openstreetmap.org/node/150938401> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id20 rdfs:label "East Mesa" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater20" ;
+    rdfs:seeAlso <http://sws.geonames.org/5345011/>,
+        <https://www.openstreetmap.org/node/358783328> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id21 rdfs:label "Mortmar" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater21" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150935965>,
+        <http://www.wikidata.org/entity/Q6914784>,
+        <https://www.openstreetmap.org/node/150935965> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id22 rdfs:label "Westmorland" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater22" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150948232>,
+        <http://linkedgeodata.org/triplify/way33113011>,
+        <http://linkedgeodata.org/triplify/way33113012>,
+        <https://www.openstreetmap.org/node/150948232>,
+        <https://www.openstreetmap.org/relation/112197> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id23 rdfs:label "Verdant" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater23" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150946171>,
+        <https://www.openstreetmap.org/node/150946171> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id24 rdfs:label "Salton Sea" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater24" ;
+    rdfs:seeAlso <http://www.wikidata.org/entity/Q503301>,
+        <https://www.openstreetmap.org/relation/5408826> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id25 rdfs:label "Wiest" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater25" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/150978219> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id26 rdfs:label "Obsidian Butte" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater26" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/358789970> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id27 rdfs:label "Seaview" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater27" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/7201365> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id28 rdfs:label "Kane Spring" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater28" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/node/150976002> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id29 rdfs:label "Mecca Dale Road" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater29" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/7172611> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id3 rdfs:label "Durmid" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater3" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150976352>,
+        <https://www.openstreetmap.org/node/150976352> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id30 rdfs:label "Chocolate Mountains" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater30" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node359244311>,
+        <http://sws.geonames.org/5336619/> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id31 rdfs:label "Desert Center Airport" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater31" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/way218017816> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id32 rdfs:label "Camp Young" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater32" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node766943416> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id4 rdfs:label "Bertram" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater4" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150940066>,
+        <https://www.openstreetmap.org/node/150940066> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id5 rdfs:label "Cottonwood" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater5" ;
+    rdfs:seeAlso <https://www.openstreetmap.org/way/323350798> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id6 rdfs:label "Estelle" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater6" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150967078>,
+        <https://www.openstreetmap.org/node/150967078> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id7 rdfs:label "Mundo" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater7" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150962463>,
+        <https://www.openstreetmap.org/node/150962463> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id8 rdfs:label "Rockwood" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater8" ;
+    rdfs:seeAlso <http://linkedgeodata.org/triplify/node150966597>,
+        <https://www.openstreetmap.org/node/150966597> .
+
+my_ns:USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpgfeature_id9 rdfs:label "Imperial County" ;
+    geo:asWKT "USGS-60-CA-saltonsea-e1943-ap1940-rv1942.jpg: addLater9" ;
+    rdfs:seeAlso <http://www.wikidata.org/entity/Q169952>,
+        <https://www.openstreetmap.org/relation/396515> .
+
