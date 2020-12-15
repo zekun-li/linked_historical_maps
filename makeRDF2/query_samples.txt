@@ -1,0 +1,54 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+PREFIX geoname: <http://linkedgeodata.org/ontology/>
+PREFIX my_ns: <gs:kg:>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?map_name ?uri
+WHERE {
+  ?map_name geo:sfOverlaps ?node .
+  ?node rdfs:label "Menlo Park";
+        rdfs:seeAlso ?uri.
+}
+
+=====
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+PREFIX geoname: <http://linkedgeodata.org/ontology/>
+PREFIX my_ns: <gs:kg:>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+SELECT ?map_name ?uri ?population ?elevation
+WHERE {
+  ?map_name geo:sfOverlaps ?node .
+  ?node rdfs:label "Menlo Park";
+        rdfs:seeAlso ?uri .
+  
+  FILTER (regex(str(?uri), "wikidata.org" )) 
+  SERVICE <https://query.wikidata.org/sparql>  {
+	?uri wdt:P1082 ?population ;
+      wdt:P2044 ?elevation.
+
+}
+}
+
+=====
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+PREFIX my_ns: <gs:kg:>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX lgdo: <http://linkedgeodata.org/ontology/>
+Prefix lgdr:<http://linkedgeodata.org/triplify/> 
+SELECT ?map_name ?uri ?elevation
+WHERE {
+  ?map_name geo:sfOverlaps ?node .
+  ?node rdfs:label "Wilsie";
+        rdfs:seeAlso ?uri .
+
+  SERVICE <http://linkedgeodata.org/sparql>  {
+	?uri lgdo:ele ?elevation .
+}
+}
