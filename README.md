@@ -60,4 +60,14 @@ This folder contains script for getting uri from GeoNames and LinkedGeodata.
 **makeRDF**:
 This folder contains script for generating RDF triples given the schema. To run scripts inside this repo, Apache Jena Fuseki server is required to be deployed on your machine. This folder contains a tutorial for setting up the Apache Jena Fuseki for the linked historical database. 
 
+## Citation:
 
+```
+@inproceedings{li2020automatic,
+  title={An Automatic Approach for Generating Rich, Linked Geo-Metadata from Historical Map Images},
+  author={Li, Zekun and Chiang, Yao-Yi and Tavakkol, Sasan and Shbita, Basel and Uhl, Johannes H and Leyk, Stefan and Knoblock, Craig A},
+  booktitle={Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={3290--3298},
+  year={2020}
+}
+```
